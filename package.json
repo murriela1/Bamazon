@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"\\\"echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murriela1/Bamazon.git"
+  },
+  "author": "Andrew Murriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murriela1/Bamazon/issues"
+  },
+  "homepage": "https://github.com/murriela1/Bamazon#readme"
+}
